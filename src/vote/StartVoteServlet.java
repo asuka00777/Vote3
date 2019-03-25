@@ -39,6 +39,7 @@ public class StartVoteServlet extends HttpServlet {
 		songNames.add("涙のキッス");
 		songNames.add("TSUNAMI");
 		songNames.add("東京VICTORY");
+		songNames.add("みんなのうた");
 
 		
 		
